@@ -3,7 +3,7 @@
 
 # **Team Electra**
 
-> Hi we are Team-Electra.We all are just a noob developers.Currently we are working on SONIC a WhatsApp userbot with 100+ features!
+> Escape from the monopoly 
 >
 >
 
